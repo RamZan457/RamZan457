@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamZan457
-- 👀 I’m interested in Ethical Hacking and Programing
-- 🌱 I’m currently learning Full Stack Development 
+- 👀 I’m interested in Ethical Hacking and Programming
+- 🌱 I’m currently Working with Full Stack Development 
 - 💞️ I’m looking to collaborate on Programing
 - 📫 How to reach me mram457456@gmail.com
