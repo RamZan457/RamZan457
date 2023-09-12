@@ -5,7 +5,7 @@
    MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Mohammad Ramzan](https://img.shields.io/badge/-ramzan457-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramzan457/)]
+[![Linkedin: Mohammad Ramzan](https://img.shields.io/badge/-ramzan457-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramzan457/)
 [![GitHub RamZan457](https://img.shields.io/github/followers/RamZan457?label=follow&style=social)](https://github.com/RamZan457)
 
 
