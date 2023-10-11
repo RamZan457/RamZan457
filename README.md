@@ -3,8 +3,7 @@
 <!-- Introduction -->
 <h2> Hi, I'm Mohammad Ramzan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" style="max-width: 100%;"></h2>
 
-<!-- Location -->
-<em>🌍 I'm from Islamabad, Pakistan</em>
+
 
 <!-- Profile Image -->
 <img align='right' src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="230" style="max-width: 100%;">
@@ -12,6 +11,9 @@
 <!-- About Me -->
 <p><em>Student of Cyber Security at <a href="https://www.au.edu.pk/">Air University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" style="max-width: 100%;">
 </br>
+  <!-- Location -->
+<em>🌍 I'm from Islamabad, Pakistan</em>
+  
 MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;"> 
 </em></p>
 
