@@ -15,11 +15,6 @@ MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 <!-- Location -->
 <em>🌍 I'm from Islamabad, Pakistan</em>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RamZan457&label=Profile%20views&color=0e75b6&style=flat" alt="RamZan457" />
-</p>
-
 <!-- LinkedIn and GitHub Badges -->
 [![Linkedin: RamZan457](https://img.shields.io/badge/-ramzan457-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramzan457/)](https://www.linkedin.com/in/ramzan457/)
 [![GitHub RamZan457](https://img.shields.io/github/followers/RamZan457?label=follow&style=social)](https://github.com/RamZan457)
