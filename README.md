@@ -14,7 +14,7 @@
   <!-- Location -->
 <em>🌍 I'm from Islamabad, Pakistan</em>
   
-MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;"> 
+MERN Developer & NEXTJS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;"> 
 </em></p>
 
 <!-- LinkedIn and GitHub Badges -->
